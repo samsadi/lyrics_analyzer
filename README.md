@@ -3,4 +3,4 @@ A data visualization project using Natural Language Processing (NLP) techniques 
 
 # Results
 
-![topic trends](./lyrics_analyzer/plots_readme/TopicTrends.png?raw=true "Topic trends")
+![topic trends](https://github.com/samsadi/lyrics_analyzer.git/plots_readme/TopicTrends.png?raw=true "Topic trends")
