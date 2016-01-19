@@ -3,4 +3,8 @@ A data visualization project using Natural Language Processing (NLP) techniques 
 
 # Results
 
-![topic trends](/plots_readme/TopicTrends.png?raw=true "Topic trends")
+![topic trends](/plots_readme/TopicTrendLines.png?raw=true "Topic trends")
+
+![emotion trends](/plots_readme/EmotionalTrends.png?raw=true "Emotion trends")
+
+![topic trends](/plots_readme/EmotionGenres.png?raw=true "Emotion of Genres")
