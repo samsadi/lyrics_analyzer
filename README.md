@@ -11,7 +11,7 @@ A data visualization project using Natural Language Processing (NLP) techniques 
 
 
 # Insights
-*
+
 * Topics like Love and Violence seem to be going down over time.
 * The proportion of "joy" is decreasing over time in songs.
 * The genre "Rap" is noticably filled with anger and fear.
